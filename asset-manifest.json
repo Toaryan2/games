@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/games/static/css/main.fcc2c45e.css",
+    "main.js": "/games/static/js/main.6213118f.js",
+    "static/media/ember.svg": "/games/static/media/ember.4dae9b86644b19ea5301193a499e7493.svg",
+    "static/media/aurelia.svg": "/games/static/media/aurelia.2fc888ad8a8583259e0bf3d6d99e5df8.svg",
+    "static/media/react.svg": "/games/static/media/react.2fd1ea8e2dba473a33d83fd831c3540a.svg",
+    "static/media/backbone.svg": "/games/static/media/backbone.3271f171bb83bb012e3833c4604122db.svg",
+    "static/media/js-badge.svg": "/games/static/media/js-badge.0ba1d697858e38daff40a2180804437f.svg",
+    "static/media/vue.svg": "/games/static/media/vue.d01cb2d4f7a7f81fe614ad0470085112.svg",
+    "static/media/angular.svg": "/games/static/media/angular.ff5518f2ef053a5a8d16f00e7bf582dd.svg",
+    "index.html": "/games/index.html",
+    "main.fcc2c45e.css.map": "/games/static/css/main.fcc2c45e.css.map",
+    "main.6213118f.js.map": "/games/static/js/main.6213118f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcc2c45e.css",
+    "static/js/main.6213118f.js"
+  ]
+}
